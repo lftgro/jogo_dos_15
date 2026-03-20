@@ -1,10 +1,26 @@
--------------------------------------------------------------------------------------------------------------------------------------------
+# 🎮 Jogo dos 15
 
-O arquivo MK01 foi minha primeira tentativa de montar o jogo.
-Já o arquivo que está nomeado como main.c seria o MK02 que foi a minha segunda tentativa de executar o jogo.
-Nele eu usei bibliotecas gráficas para melhorar a experiência do jogador.
+O **Jogo dos 15** é uma implementação do clássico puzzle de tabuleiro, desenvolvido como parte do meu aprendizado em programação.  
+O projeto começou em **C** (arquivos `MK01.c` e `main.c`) e evoluiu para **Python** (`MK06.py`), onde explorei novas funções e mantive a simplicidade sem bibliotecas gráficas externas.
 
-O arquivo MK06 foi o resultado final do meu projeto que começou em C e foi para Python.
-Resolvi deixar as coisas mais simples e não usar bibliotecas gráficas para poder aprender novas funções da programação em Python.
+---
 
--------------------------------------------------------------------------------------------------------------------------------------------
+## 🚀 Features
+- Tabuleiro interativo do jogo dos 15
+- Implementações em **C** e **Python**
+- Versão final em Python sem dependências gráficas
+- Código simples e didático para estudo
+
+---
+
+## 📂 Project Structure
+- `MK01.c` → primeira tentativa em C
+- `main.c` → segunda versão em C, com bibliotecas gráficas
+- `MK06.py` → versão final em Python
+
+---
+
+## 🛠️ How to Run
+
+### Prerequisites
+- Python 3.10 or higher
