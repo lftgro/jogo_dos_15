@@ -1,7 +1,7 @@
 # 🎮 Jogo dos 15
 
 O **Jogo dos 15** é uma implementação do clássico puzzle de tabuleiro, desenvolvido como parte do meu aprendizado em programação.  
-O projeto começou em **C** (arquivos `MK01.c` e `main.c`) e evoluiu para **Python** (`MK06.py`), onde explorei novas funções e mantive a simplicidade sem bibliotecas gráficas externas.
+O projeto começou em **C** (arquivos `MK01.c` e `main.c`) e evoluiu para **Python** (`MK07.py`), onde explorei novas funções e mantive a simplicidade sem bibliotecas gráficas externas.
 
 ---
 
@@ -16,7 +16,7 @@ O projeto começou em **C** (arquivos `MK01.c` e `main.c`) e evoluiu para **Pyth
 ## 📂 Project Structure
 - `MK01.c` → primeira tentativa em C
 - `main.c` → segunda versão em C, com bibliotecas gráficas
-- `MK06.py` → versão final em Python
+- `MK07.py` → versão final em Python
 
 ---
 
